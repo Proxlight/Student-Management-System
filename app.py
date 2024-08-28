@@ -1,3 +1,5 @@
+# Created by Pratyush Mishra From Proxlight
+
 import customtkinter as ctk
 from tkinter import messagebox
 from tkinter import ttk
